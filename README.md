@@ -2,10 +2,6 @@
 ## Jupyter notebook with steps to rediscover the Higgs boson yourself!
 ------
 
-## Get help
-
-This live google doc will be updated with hints https://docs.google.com/document/d/1gBp7CDJodkajB_KjLCb-6AuHMt5tELokGTQRITP-7n8/edit
-
 ## Get Started (online)
 Click on this link --> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meevans1/how-to-rediscover-the-higgs-with-photons/master)
 
