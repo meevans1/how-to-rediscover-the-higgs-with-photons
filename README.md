@@ -16,4 +16,4 @@ Open a [Jupyter notebook](https://jupyter.org) using your favourite [Python](htt
 
 Click on the .ipynb file (either the original one you downloaded or your version that you downloaded)
 
-![Hyy Feynman diagram](Hyy_feynman.png)
+![Hyy Feynman diagram](images/Hyy_feynman.png)
